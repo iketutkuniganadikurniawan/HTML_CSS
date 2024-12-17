@@ -1,0 +1,121 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.gradient-bg {
+    background-image: linear-gradient(to bottom right,black, white);
+}
+
+.Judul {
+    text-align: center;
+    text-decoration: underline;
+    color: blue;
+    text-transform: capitalize;
+}
+
+.content  {
+    position: relative;
+    padding: 12 0;
+    height: 81vh;
+}
+
+.Box1 {
+    /* width: 600px; */
+    left: 20%;
+    position: absolute;
+    width: 300px;
+}
+
+.Box3 {
+    /* width: 600px; */
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 300px;
+}
+
+.Box2 {
+    width: 300px;
+    position: absolute;
+    right: 20%;
+}
+
+.Musim {
+    height: 60px;
+}
+
+.Panas1 {
+    background-color: red;
+}
+
+.Panas2 {
+    background-color: brown;
+}
+
+.Panas3 {
+    background-color: coral;
+}
+
+.Panas4 {
+    background-color: aliceblue;
+}
+
+.Dingin1 {
+    background-color: blue;
+}
+
+.Dingin2 {
+    background-color: azure;
+}
+
+.Dingin3 {
+   background-color: aqua;
+}
+
+.Dingin4 {
+    background-color: bisque;
+}
+
+
+.gugur1 {
+    background-color: crimson;
+}
+
+.gugur2 {
+    background-color: burlywood;
+}
+
+.gugur3 {
+    background-color: forestgreen;
+}
+
+.gugur4 {
+    background-color: greenyellow;
+}
+
+.Nama-kelompok {
+    text-align: center;
+    font-size: large;
+}
+
+.Kelompok {
+    color:greenyellow;
+}
+    
+.Nama1 {
+    color: blue;
+}
+
+.Nama2 {
+    color: brown;
+}
+
+.Nama3 {
+    color: coral;
+}
+
+.Nama4 {
+    color: aliceblue;
+}
